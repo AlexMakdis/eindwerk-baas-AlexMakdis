@@ -1,10 +1,38 @@
 [
     {
-        "titel":"Contact gegevens",
-        "contactinfo":"<br><p>Arteveldehogeschool VZW<br>Hoogpoort 15<br>9000 Gent</p><hr><p>Algemeen Telefoonnummer:<br>T 09 234 90 00</p><hr><p>Ondernemingsnummer: 0474.120.360<br>BTW-nummer: BTW BE 0474.120.360</p>"
+        "title":"Dirty Dick’s Hot Sauce",
+        "synopsis":"Het flesje zegt het eigenlijk al: Hot Pepper Sauce met een tropische twist. Die twist wordt gegeven door de mango’s, ananas en bananen. Vergeet echter niet dat je ook te maken hebt met een behoorlijk stevige heat. Maar wat een topsaus is dit!",
+        "price": 9.95,
+        "shu":"🌶️🌶️"
     },
     {
-        "titel":"Contact personen",
-        "contactinfo":"<br><p>Maaike Callens<br>Verantwoordelijke opleiding Graduaat Programmeren</p><hr><p>Inge De Canck <br>Verantwoordelijke werkplekleren</p><hr><p>Philippe De Pauw - Waterschoot <br>Verantwoordelijke werkplekleren</p><hr><p>Olivier Parent <br>Verantwoordelijke curriculum</p>"
+        "title":"Cholula Hot Sauce Original",
+        "synopsis":"Deze Mexicaanse hete saus is ongekend populair en past perfect bij alles van soepen tot salades en van steaks tot zeevruchten, maar natuurlijk het allerbest bij een Mexicaans gerecht als deze ‘Mexicaanse Kapsalon’. Cholula heeft volgens liefhebbers de perfecte balans tussen smaak en pit. Verslavingsgevaar is groot!",
+        "price": 5.95,
+        "shu":"🌶️"
+    },
+    {
+        "title":"Heartbeat Pineapple Habanero Hot Sauce",
+        "synopsis":"Deze Heartbeat Pineapple Habanero hot sauce is weer een absolute topper van het Canadese merk. Zoals we van ze gewend zijn is het een behoorlijk zoete saus, maar door het karakter van de ananas zit er ook een mooi zuurtje aan. Door de Habanero heeft ‘ie een medium kick en de Sleeping Giant Beaver Duck Session IPA zorgt voor de finishing touch. De hot sauce is ook bekend van de YouTube show Hot Ones.",
+        "price": 11.99,
+        "shu":"🌶️"
+    },
+    {
+        "title":"Queen Majesty Red Habanero & Black Coffee",
+        "synopsis":"De naam Queen Majesty Red Habanero & Black Coffee verraadt al dat dit een heel bijzondere hot sauce is. De zwarte koffie is in de smaak licht aanwezig, maar het zijn vooral de paprika’s en rode habanero’s die goed te proeven én te voelen zijn. De habanero’s zorgen namelijk voor een lekkere burn. Heerlijk bij pizza, falafel, sandwiches, burgers en stoofpotten.",
+        "price": 9.50,
+        "shu":"🌶️🌶️"
+    },
+    {
+        "title":"Mad Dog 357 Turbo Charged with no. 9 Plutonium",
+        "synopsis":"Goud is een van de weinige, kostbare en zeldzame materialen waar mensen geen genoeg van kunnen krijgen. We voelen hetzelfde met de nieuwe Mad Dog 357 Gold Edition. Het brandt als niets anders op aarde en stuurt je naar andere dimensies. Een droom van vloeibaar goud. Deze fles is gevuld met de typische Mad Dog-smaak verrijkt met Nr. 9 Plutonium chili-extract. Dit geeft de saus een scherpte van 1 miljoen Scoville !!!",
+        "price": 19.95,
+        "shu":"🌶️🌶️🌶️"
+    },
+    {
+        "title":"Hellfire Fiery Fool",
+        "synopsis":"Hellfire Fiery Fool is volgens het merk de Heetste saus ter wereld zonder chili-extract. Wij durven het niet te ontkrachten want als je hem proeft en ook de ingrediëntenlijst leest kan het bijna niet anders. De 4 hoofdbestandsdelen van deze saus zijn namelijk allemaal superhots: 7-pot primo, Carolina Reaper, Bhut Jolokia en Trinidad Scorpion. Superheet, maar super lekker!",
+        "price": 11.95,
+        "shu":"🌶️🌶️🌶️"
     }
 ]
