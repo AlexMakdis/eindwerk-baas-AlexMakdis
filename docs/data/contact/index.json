@@ -1,9 +1,9 @@
 [{
     "id": "0",
     "title": "Adres",
-    "info": "Escobarstraat 69 <br></br>Gent 9000, België"
+    "info": "<p>Escobarstraat 69</p><br></br><p>Gent 9000, België</p>"
 }, {
     "id": "1",
     "title": "Contact gegevens",
-    "info": "info@pablosauce.com <br></br>0421.83.83.29"
+    "info": "<p>info@pablosauce.com</p><br></br><p>0421.83.83.29</p>"
 }]
