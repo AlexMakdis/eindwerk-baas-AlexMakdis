@@ -10,7 +10,7 @@
         "id": "1",
         "img":"https://alexmakdis.github.io/eindwerk-baas-AlexMakdis/static/recipes/images/brisket_taco.jpg",
         "title": "Cholula Brisket Taco",
-        "info": "1 In a bowl, mix brown sugar, chili powder, salt, pepper, smoked paprika, garlic powder, cayenne pepper. <br><br>2 In a separate bowl, mix the Cholula Original and mustard. Rub the entire brisket with the mixture, then apply the dry rub on top of that. <br><br>3 Smoke the brisket between 225 and 250 degrees Fahrenheit for 7-8 hours, until it reaches an internal temperature of 200 degrees. If you don’t have access to a smoker, you can cook the brisket in a slow cooker on low for 8-10 hours. <br><br>4 Remove brisket from smoker and shred with forks. <br><br>5 To make pico de gallo, toss tomato, onion and jalapeños together in a bowl.<br><br>6 Assemble tacos -- Place brisket, pico de gallo, and a slice of avocado into tortillas. Drizzle with Cholula Original.",
+        "info": "<ol> <li>  In a bowl, mix brown sugar, chili powder, salt, pepper, smoked paprika, garlic powder, cayenne pepper. </li><br><li>  In a separate bowl, mix the Cholula Original and mustard. Rub the entire brisket with the mixture, then apply the dry rub on top of that. </li><br><li> Smoke the brisket between 225 and 250 degrees Fahrenheit for 7-8 hours, until it reaches an internal temperature of 200 degrees. If you don’t have access to a smoker, you can cook the brisket in a slow cooker on low for 8-10 hours. </li><br><li>  Remove brisket from smoker and shred with forks. </li><br><li>  To make pico de gallo, toss tomato, onion and jalapeños together in a bowl.<br><li>  Assemble tacos -- Place brisket, pico de gallo, and a slice of avocado into tortillas. Drizzle with Cholula Original. </li></ol>",
         "ingredients":"<ul><li>One 5 pound brisket</li><li>8 tablespoons brown sugar</li><li>1 tablespoon chili powder</li><li>3 tablespoon salt</li><li>1/2 teaspoon smoked paprika</li><li>1/2 teaspoon black pepper</li><li>1/2 teaspoon garlic powder</li><li>1/2 teaspoon cayenne</li><li>1/2 teaspoon cumin</li><li>1/2 cup whole-grain mustard</li><li>1/3 cup Cholula® Original Hot Sauce</li></ul>",
         "match":"1"
     },
@@ -18,7 +18,7 @@
         "id": "2",
         "img":"https://alexmakdis.github.io/eindwerk-baas-AlexMakdis/static/recipes/images/boom_burger.jpg",
         "title": "Heartbeat Pineapple Habanero Boom Burger",
-        "info": "1 Mix all ingredients and gently pat into thick patties.<br><br>2 Grill the burgers for 2 minutes on each side over high heat, then move them to a lower-heat area of the grill. Cook another 2 - 3 minutes for medium-rare burgers, 3 - 4 minutes for medium or 5 - 6 minutes for well-done. <br><br>3 Serve on a warm bun with your favorite toppings.",
+        "info": "<ol> <li>  Mix all ingredients and gently pat into thick patties. </li> <br><li>  Grill the burgers for 2 minutes on each side over high heat, then move them to a lower-heat area of the grill. Cook another 2 - 3 minutes for medium-rare burgers, 3 - 4 minutes for medium or 5 - 6 minutes for well-done. </li><br><li>  Serve on a warm bun with your favorite toppings. </li> </ol>",
         "ingredients":"<ul><li>1 1/2 pounds ground beef</li><li> 1/2 teaspoon garlic powder</li><li> 3/4 teaspoon ground cumin</li><li> 3/4 teaspoon oregano</li><li> 1/4 cup Heartbeat Pineapple Habanero Hot Sauce, or more to taste</li><li> 1 tablespoon butter and 1 tablespoon vegetable oil (for grilling burgers) </li><li> 4 hamburger buns</li></ul>",
         "match":"2"
     },
@@ -26,7 +26,7 @@
         "id": "3",
         "img":"https://alexmakdis.github.io/eindwerk-baas-AlexMakdis/static/recipes/images/beans.jpg",
         "title": "Queen Majesty Red Habanero & Black Coffee Baked Beans",
-        "info": "1 Preheat oven to 350ºF.<br><br>2 Combine the molasses, ketchup, mustard and Queen Majesty Red Habanero & Black Coffee in large bowl. <br><br>3 Sauté bacon until browned and add to bowl. <br><br>4 Sauté the onions in the bacon fat until tender then add to ingredients in bowl. <br><br>5 Season beans with salt and black pepper and gently toss into molasses mixture. <br><br>6 Pour mixture into a baking dish and bake in the oven for 25 minutes.",
+        "info": "<ol> <li>  Preheat oven to 350ºF. </li> <br><li> Combine the molasses, ketchup, mustard and Queen Majesty Red Habanero & Black Coffee in large bowl. </li> <br><li>  Sauté bacon until browned and add to bowl. </li><br><li>  Sauté the onions in the bacon fat until tender then add to ingredients in bowl. </li><br><li>  Season beans with salt and black pepper and gently toss into molasses mixture. </li> <br><li> Pour mixture into a baking dish and bake in the oven for 25 minutes. </li>  </ol>",
         "ingredients":"<ul> <li> 1 onion, diced</li><li> 1/2 cup molasses</li><li> 1/2 cup ketchup</li><li> 1/4 cup Dijon mustard</li><li> 2 1/2 ounces Queen Majesty Red Habanero & Black Coffee</li><li> 3 cans Cannelloni beans, 28 ounces, drained and rinsed</li><li> 8 slices slab bacon, 1/2” dice</li><li> kosher salt and freshly ground black pepper</li></ul>",
         "match":"3"
     },
@@ -34,7 +34,7 @@
         "id": "4",
         "img":"https://alexmakdis.github.io/eindwerk-baas-AlexMakdis/static/recipes/images/ribs.jpg",
         "title": "Mad Dog 357 Ribs",
-        "info": "1 Mix all dry rub ingredients together with a fork in a metal bowl.<br><br>2 Thoroughly coat the ribs with the dry rub. <br><br>3 Let the ribs sit for 1 hour at room temperature. <br><br>4 Grill ribs over low heat, covered, for 2 - 4 hours. <br><br>5 Remove ribs from grill and add as much Mad Dog 357 as you’d like for more flavor.",
+        "info": "<ol> <li>  Mix all dry rub ingredients together with a fork in a metal bowl. </li><br><li>  Thoroughly coat the ribs with the dry rub. </li> <br><li>  Let the ribs sit for 1 hour at room temperature. </li><br><li>  Grill ribs over low heat, covered, for 2 - 4 hours. </li> <br><li>  Remove ribs from grill and add as much Mad Dog 357 as you’d like for more flavor. </li> </ol>",
         "ingredients":"<ul><li> 1 rack pork spare ribs</li><li> 1 1/2 teaspoons salt</li><li> 1 1/2 tablespoons ground black pepper</li><li> 1 1/2 tablespoons paprika</li><li> 1 teaspoon garlic powder</li><li> 3 tablespoons brown sugar</li></ul>",
         "match":"4"
     },
@@ -42,7 +42,7 @@
         "id": "5",
         "img":"https://alexmakdis.github.io/eindwerk-baas-AlexMakdis/static/recipes/images/chili.jpg",
         "title": "Hellfire Fiery Fool Chili",
-        "info": "1 Heat a large skillet over medium-high heat and add in ground beef. Cook and stir until beef is evenly browned, and no longer pink. Discard excess grease. <br><br>2 In a large stockpot, sauté the bell pepper and onion in oil until onion turns slightly in color.3 Add in the minced garlic and cooked ground beef and sauté for one minute. <br><br>4 Add remaining ingredients - diced tomatoes, tomato sauce, chili powder, cayenne pepper, salt, black pepper, water and Hellfire Fiery Fool into the stockpot. <br><br>5 Bring to a boil, then reduce heat to low. <br><br>6 Simmer ingredients uncovered for approximately 15-20 minutes. <br><br>7 Garnish each serving with Cheddar cheese, green onions, and add additional desired amount of Hellfire Fiery Fool, for maximum flavor.",
+        "info": "<ol> <li>  Heat a large skillet over medium-high heat and add in ground beef. Cook and stir until beef is evenly browned, and no longer pink. Discard excess grease. </li><br><li>  In a large stockpot, sauté the bell pepper and onion in oil until onion turns slightly in color. </li> <br><li>  Add in the minced garlic and cooked ground beef and sauté for one minute. </li><br><li>  Add remaining ingredients - diced tomatoes, tomato sauce, chili powder, cayenne pepper, salt, black pepper, water and Hellfire Fiery Fool into the stockpot. </li><br><li>  Bring to a boil, then reduce heat to low. </li><br><li>  Simmer ingredients uncovered for approximately 15-20 minutes. </li><br><li>  Garnish each serving with Cheddar cheese, green onions, and add additional desired amount of Hellfire Fiery Fool, for maximum flavor. </li></ol>",
         "ingredients":"<ul><li> 2 pounds ground beef</li><li> 2 (16 ounce) cans kidney beans, rinsed and drained</li><li> 2 (14.5 ounce) cans diced tomatoes, drained</li><li> 1 (8 ounce) can tomato sauce</li><li> 2 onions, chopped</li><li> 1 green bell pepper, chopped</li><li> 2 cloves garlic, minced</li><li> 3 tablespoons chili powder</li><li> 1 tablespoon cayenne pepper</li><li> 2 teaspoons salt</li><li> 1 teaspoon ground black pepper</li><li> 1/2 cup shredded Cheddar cheese</li><li> 1/3 cup Hellfire Fiery Fool Hot Sauce</li></ul>",
         "match":"5"
     }
